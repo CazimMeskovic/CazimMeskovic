@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CazimMeskovic
 - 👀 I’m interested in Ful-Stack development
 - 🌱 I’m currently learning Next.js and Typescript
-- 📫 How to reach me https://www.mcazim.netlify.app
-- 😄 Pronouns: on my portfolio https://www.mcazim.netlify.app
+- 📫 How to reach me https://www.cazim.vercel.app
+- 😄 Pronouns: on my portfolio https://www.cazim.vercel.app
 - ⚡ Fun fact: ...
 
 <!---
